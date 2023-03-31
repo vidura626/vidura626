@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vidura Rames Wijesinghe</h1>
-<h3 align="center">A Student from Sri Lanka</h3>
+<h3 align="center">Full stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidura626&label=Profile%20views&color=0e75b6&style=flat" alt="vidura626" /> </p>
 
