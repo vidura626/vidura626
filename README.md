@@ -48,6 +48,12 @@ I'm a Full Stack Software Engineer at **S P Solutions (Pvt) Ltd**, passionate ab
 - Optimize application performance, scalability, and reliability
 ---
 
+🤖 **AI & Machine Learning**
+- Develop and evaluate machine learning models
+- Integrate ML models into production applications
+
+---
+
 ## 🌐 Portfolio
 
 **Website:** https://vidurawijesinghe.com
