@@ -1,108 +1,199 @@
-# Hi there 👋 I'm Vidura Rames Wijesinghe
+<div align="center">
 
-### Software Engineer • Full Stack Developer • DevOps Enthusiast 🇱🇰
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vidura%20Rames%20Wijesinghe&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=58"/>
 
-I'm a passionate Software Engineer from Sri Lanka who enjoys building scalable web applications, enterprise solutions, and developer tools. I enjoy solving complex problems through clean architecture, modern technologies, and continuous improvement.
+# 👋 Hello, I'm Vidura Rames Wijesinghe
 
----
+### 🚀 Software Engineer • Full Stack Developer • Cloud & DevOps Enthusiast 🇱🇰
 
-## ✨ Highlights
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Next.js;Cloud+Computing+%26+Software+Architecture;Building+Enterprise+Applications" />
 
-- 🧑‍💻 **2.6+ Years** of Professional Experience
-- 🎓 **BSc (Hons) Software Engineering** — Cardiff Metropolitan University
-- ☁️ **Pursuing AWS Certified Solutions Architect – Professional**
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=vidura626&label=PROFILE+VIEWS&style=for-the-badge"/>
 
-## 🚀 About Me
+<a href="https://github.com/vidura626?tab=followers">
+<img src="https://img.shields.io/github/followers/vidura626?style=for-the-badge"/>
+</a>
 
-I'm a Full Stack Software Engineer at **S P Solutions (Pvt) Ltd**, passionate about building scalable web applications, enterprise solutions, and developer tools using modern technologies like **Spring Boot**, **React**, and **Next.js**.
-
----
-
-## 💼 What I Can Do
-
-🏗️ **Architecture**
-- Design clean, scalable, and maintainable software architectures
-
-☁️ **Cloud & DevOps**
-- Build cloud-ready applications
-- Containerize and deploy applications using Docker
-- Implement CI/CD pipelines using GitHub Actions
-
-⚙️ **Backend**
-- Develop secure and scalable RESTful APIs using Spring Boot
-- Build enterprise workflow automation and business applications
-- Design and implement BPMN workflows using Activiti and Flowable
-- Develop real-time applications using WebSocket technology
-
-🗄️ **Database**
-- Design efficient database schemas and optimize SQL/NoSQL queries
-- Plan and execute database migrations across heterogeneous database systems (e.g., MySQL → Oracle Autonomous Database)
-
-🎨 **Frontend**
-- Build modern, responsive web applications with React, Next.js, and TypeScript
-- Create reusable UI component libraries and design systems
-
-🚀 **Performance**
-- Optimize application performance, scalability, and reliability
-
-🤖 **AI & Machine Learning**
-- Develop and evaluate machine learning models
-- Integrate ML models into production applications
+</div>
 
 ---
 
-## 🌐 Portfolio
+# 🚀 About Me
 
-**Website:** https://vidurawijesinghe.com
+```yaml
+Current Role : Full Stack Software Engineer @ S P Solutions (Pvt) Ltd
 
-Explore my professional experience, projects, technical skills, certifications, and research.
+Experience   : 2.6+ Years
 
----
+Education    : BSc (Hons) Software Engineering
+               Cardiff Metropolitan University
 
-## 📫 Connect With Me
+Certification: AWS Certified Solutions Architect – Professional (In Progress)
 
-* 🌐 Website: https://vidurawijesinghe.com
-* 💼 LinkedIn: https://linkedin.com/in/vidurawije626
-* 💻 GitHub: https://github.com/vidura626
-* 🏆 HackerRank: https://www.hackerrank.com/wijesinghemap
-* 🧩 LeetCode: https://leetcode.com/u/wijesinghemap
-* 📧 Email: [wijesinghemap@gmail.com](mailto:wijesinghemap@gmail.com)
+Location     : Sri Lanka 🇱🇰
+```
 
----
+### 💡 What I Can Do
 
+🏗️ Design scalable software architectures
 
-## 💻 Technical Skills
+☁️ Build cloud-ready applications & DevOps pipelines
 
-| Category | Technologies |
-|----------|--------------|
-| 💻 **Languages** | Java • TypeScript • JavaScript • Python |
-| ⚛️ **Frontend** | React • Next.js • Tailwind CSS • HTML5 • CSS3 • Flutter |
-| ☕ **Backend** | Spring Boot • Spring Cloud • REST APIs • WebFlux |
-| 🗄️ **Databases** | MySQL • Oracle • SQL Server • MongoDB |
-| ☁️ **Cloud & DevOps** | Docker • Kubernetes • GitHub Actions |
-| 🛠️ **Tools** | Git • GitHub • Postman • IntelliJ IDEA • VS Code • Figma |
-| 🏗️ **Expertise** | Full Stack Development • Software Architecture • Workflow Automation • System Design • Cloud Computing • AI-assisted Development |
----
+⚙️ Develop enterprise backend systems with Spring Boot
 
-## 📊 GitHub Stats
+🔄 Build workflow automation using Activiti & Flowable BPMN
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vidura626&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidura626&layout=compact&theme=tokyonight" />
-</p>
+🌐 Develop REST APIs & WebSocket-based real-time applications
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidura626&theme=tokyonight" />
-</p>
+🗄️ Design, optimize & migrate databases (MySQL → Oracle Autonomous DB)
+
+🎨 Build modern web applications with React, Next.js & TypeScript
+
+🧩 Create reusable UI component libraries & design systems
+
+🚀 Optimize application performance & scalability
 
 ---
 
-## 🤝 Let's Connect
+# 🌐 Connect With Me
 
-I'm always interested in discussing software engineering, cloud technologies, modern web development, system design, and innovative ideas. Feel free to connect or collaborate on interesting projects!
+<div align="center">
+
+<a href="https://vidurawijesinghe.com">
+<img src="https://skillicons.dev/icons?i=webstorm" width="52"/>
+</a>
+
+<a href="https://linkedin.com/in/vidurawije626">
+<img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
+</a>
+
+<a href="https://github.com/vidura626">
+<img src="https://skillicons.dev/icons?i=github" width="52"/>
+</a>
+
+<a href="mailto:wijesinghemap@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="52"/>
+</a>
+
+<a href="https://leetcode.com/u/wijesinghemap">
+<img src="https://cdn.simpleicons.org/leetcode" width="45"/>
+</a>
+
+<a href="https://www.hackerrank.com/wijesinghemap">
+<img src="https://cdn.simpleicons.org/hackerrank" width="45"/>
+</a>
+
+</div>
 
 ---
 
-> **"Great software is built through curiosity, consistency, and continuous improvement."**
+# 💻 Technical Skills
+
+<div align="center">
+
+### 🏗️ Architecture
+
+Software Architecture • Design Patterns • Modular Design • Enterprise Systems
+
+---
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions"/>
+
+---
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs"/>
+
+Spring Boot • Spring Cloud • REST API • WebSocket • Activiti BPMN • Flowable BPMN
+
+---
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+Oracle Database • SQL Server • Database Migration • Query Optimization
+
+---
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css"/>
+
+Reusable UI Systems • Responsive Design
+
+---
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea"/>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vidura626&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidura626&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vidura626&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vidura626&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🚀 Core Expertise
+
+| Domain | Expertise |
+|---------|-----------|
+| 🏗️ Architecture | Scalable Software Architecture, Design Patterns |
+| ☁️ Cloud | AWS, Docker, Kubernetes, GitHub Actions |
+| ⚙️ Backend | Spring Boot, REST APIs, BPMN, WebSocket |
+| 🗄️ Database | MySQL, Oracle, SQL Server, MongoDB |
+| 🎨 Frontend | React, Next.js, TypeScript, Tailwind CSS |
+| 🚀 Enterprise | Workflow Automation, Business Applications |
+
+---
+
+# 🌍 Portfolio
+
+**🔗 https://vidurawijesinghe.com**
+
+Explore my professional experience, enterprise projects, technical skills, certifications, and research.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=140&section=footer"/>
+
+### ⭐ Thanks for visiting my GitHub Profile ⭐
+
+</div>
