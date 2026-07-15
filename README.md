@@ -1,29 +1,133 @@
-<h1 align="center">Hi 👋, I'm Vidura Rames Wijesinghe</h1>
-<h3 align="center">Full stack developer from Sri Lanka</h3>
+# Hi there 👋 I'm Vidura Rames Wijesinghe
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidura626&label=Profile%20views&color=0e75b6&style=flat" alt="vidura626" /> </p>
+### Software Engineer • Full Stack Developer • DevOps Enthusiast 🇱🇰
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidura626" alt="vidura626" /></a> </p>
+I'm a passionate Software Engineer from Sri Lanka who enjoys building scalable web applications, enterprise solutions, and developer tools. I enjoy solving complex problems through clean architecture, modern technologies, and continuous improvement.
 
-- 🌱 I’m currently learning **at IJSE-GDSE Programme**
+---
 
-- 📫 How to reach me **wijesinghemap@gmail.com**
+## 🚀 About Me
 
-- ⚡ Fun fact **I think I am Silent**
+* 💼 Software Engineer with experience building enterprise-grade applications
+* ⚛️ Passionate about modern web development using React, Next.js, and Spring Boot
+* ☁️ Interested in Cloud Computing, DevOps, and Software Architecture
+* 🧩 Love building reusable UI systems and developer productivity tools
+* 💡 Always exploring better ways to design, build, and optimize software
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vidurawije626" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidurawije626" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/wijesinghemap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wijesinghemap" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/wijesinghemap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wijesinghemap" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@wijesinghemap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@wijesinghemap" height="30" width="40" /></a>
+---
+
+## 💼 What I Can Do
+
+* Develop scalable Full Stack web applications
+* Build RESTful APIs with Spring Boot
+* Create modern, responsive user interfaces with React & Next.js
+* Design reusable UI component libraries and design systems
+* Build workflow automation and business applications
+* Integrate MySQL, Oracle, SQL Server, and MongoDB
+* Containerize applications using Docker
+* Build CI/CD pipelines with GitHub Actions
+* Design clean, maintainable, and modular software architectures
+* Optimize application performance and maintain enterprise systems
+
+---
+
+## 🌐 Portfolio
+
+**Website:** https://vidurawijesinghe.com
+
+Explore my professional experience, projects, technical skills, certifications, and research.
+
+---
+
+## 📫 Connect With Me
+
+* 🌐 Website: https://vidurawijesinghe.com
+* 💼 LinkedIn: https://linkedin.com/in/vidurawije626
+* 💻 GitHub: https://github.com/vidura626
+* 🏆 HackerRank: https://www.hackerrank.com/wijesinghemap
+* 🧩 LeetCode: https://leetcode.com/u/wijesinghemap
+* 📧 Email: [wijesinghemap@gmail.com](mailto:wijesinghemap@gmail.com)
+
+---
+
+
+## 🛠 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Frontend
+
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+* HTML5
+* CSS3
+* Flutter
+
+### Backend
+
+* Spring Boot
+* Spring Cloud
+* REST APIs
+* WebFlux
+
+### Databases
+
+* MySQL
+* Oracle Database
+* Microsoft SQL Server
+* MongoDB
+
+### DevOps & Tools
+
+* Docker
+* Kubernetes
+* GitHub Actions
+* Git
+* GitHub
+* Postman
+* IntelliJ IDEA
+* VS Code
+
+---
+
+## 🌟 Areas of Interest
+
+* Full Stack Development
+* Software Architecture
+* Cloud Computing
+* DevOps
+* Distributed Systems
+* AI-assisted Development
+* Workflow Automation
+* System Design
+* Performance Optimization
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vidura626&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidura626&layout=compact&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidura626&theme=tokyonight" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidura626&show_icons=true&locale=en&layout=compact" alt="vidura626" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidura626&show_icons=true&locale=en" alt="vidura626" /></p>
+## 🤝 Let's Connect
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidura626&" alt="vidura626" /></p>
+I'm always interested in discussing software engineering, cloud technologies, modern web development, system design, and innovative ideas. Feel free to connect or collaborate on interesting projects!
+
+---
+
+> **"Great software is built through curiosity, consistency, and continuous improvement."**
