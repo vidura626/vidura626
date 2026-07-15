@@ -6,29 +6,46 @@ I'm a passionate Software Engineer from Sri Lanka who enjoys building scalable w
 
 ---
 
+## ✨ Highlights
+
+- 🧑‍💻 **2.6+ Years** of Professional Experience
+- 🎓 **BSc (Hons) Software Engineering** — Cardiff Metropolitan University
+- ☁️ **Pursuing AWS Certified Solutions Architect – Professional**
+
+---
+
 ## 🚀 About Me
 
-* 💼 Software Engineer with experience building enterprise-grade applications
-* ⚛️ Passionate about modern web development using React, Next.js, and Spring Boot
-* ☁️ Interested in Cloud Computing, DevOps, and Software Architecture
-* 🧩 Love building reusable UI systems and developer productivity tools
-* 💡 Always exploring better ways to design, build, and optimize software
+I'm a Full Stack Software Engineer at **S P Solutions (Pvt) Ltd**, passionate about building scalable web applications, enterprise solutions, and developer tools using modern technologies like **Spring Boot**, **React**, and **Next.js**.
 
 ---
 
 ## 💼 What I Can Do
 
-* Develop scalable Full Stack web applications
-* Build RESTful APIs with Spring Boot
-* Create modern, responsive user interfaces with React & Next.js
-* Design reusable UI component libraries and design systems
-* Build workflow automation and business applications
-* Integrate MySQL, Oracle, SQL Server, and MongoDB
-* Containerize applications using Docker
-* Build CI/CD pipelines with GitHub Actions
-* Design clean, maintainable, and modular software architectures
-* Optimize application performance and maintain enterprise systems
+🏗️ **Architecture**
+- Design clean, scalable, and maintainable software architectures
 
+☁️ **Cloud & DevOps**
+- Build cloud-ready applications
+- Containerize and deploy applications using Docker
+- Implement CI/CD pipelines using GitHub Actions
+
+⚙️ **Backend**
+- Develop secure and scalable RESTful APIs using Spring Boot
+- Build enterprise workflow automation and business applications
+- Design and implement BPMN workflows using Activiti and Flowable
+- Develop real-time applications using WebSocket technology
+
+🗄️ **Database**
+- Design efficient database schemas and optimize SQL/NoSQL queries
+- Plan and execute database migrations across heterogeneous database systems (e.g., MySQL → Oracle Autonomous Database)
+
+🎨 **Frontend**
+- Build modern, responsive web applications with React, Next.js, and TypeScript
+- Create reusable UI component libraries and design systems
+
+🚀 **Performance**
+- Optimize application performance, scalability, and reliability
 ---
 
 ## 🌐 Portfolio
@@ -51,64 +68,17 @@ Explore my professional experience, projects, technical skills, certifications, 
 ---
 
 
-## 🛠 Tech Stack
+## 💻 Technical Skills
 
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### Frontend
-
-* React
-* Next.js
-* TypeScript
-* Tailwind CSS
-* HTML5
-* CSS3
-* Flutter
-
-### Backend
-
-* Spring Boot
-* Spring Cloud
-* REST APIs
-* WebFlux
-
-### Databases
-
-* MySQL
-* Oracle Database
-* Microsoft SQL Server
-* MongoDB
-
-### DevOps & Tools
-
-* Docker
-* Kubernetes
-* GitHub Actions
-* Git
-* GitHub
-* Postman
-* IntelliJ IDEA
-* VS Code
-
----
-
-## 🌟 Areas of Interest
-
-* Full Stack Development
-* Software Architecture
-* Cloud Computing
-* DevOps
-* Distributed Systems
-* AI-assisted Development
-* Workflow Automation
-* System Design
-* Performance Optimization
-
+| Category | Technologies |
+|----------|--------------|
+| 💻 **Languages** | Java • TypeScript • JavaScript • Python |
+| ⚛️ **Frontend** | React • Next.js • Tailwind CSS • HTML5 • CSS3 • Flutter |
+| ☕ **Backend** | Spring Boot • Spring Cloud • REST APIs • WebFlux |
+| 🗄️ **Databases** | MySQL • Oracle • SQL Server • MongoDB |
+| ☁️ **Cloud & DevOps** | Docker • Kubernetes • GitHub Actions |
+| 🛠️ **Tools** | Git • GitHub • Postman • IntelliJ IDEA • VS Code • Figma |
+| 🏗️ **Expertise** | Full Stack Development • Software Architecture • Workflow Automation • System Design • Cloud Computing • AI-assisted Development |
 ---
 
 ## 📊 GitHub Stats
